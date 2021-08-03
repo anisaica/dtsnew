@@ -1,0 +1,19 @@
+Jelaskan mengenai command git yang sudah pernah kamu coba!
+
+git add. 
+memindahkan file ke Stage Change
+
+git commit 
+untuk menambah komen
+
+git branch 
+untuk cek branch
+
+git remote
+menambah remote
+
+git push 
+buat unggah ke repository
+
+git pull
+buat unduh dari repository

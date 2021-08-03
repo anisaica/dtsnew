@@ -1,0 +1,40 @@
+Jelaskan mengenai scrum events yang kamu ketahui.
+Scrum Events
+
+Setiap fase pengembangan produk dalam Scrum akan dikenal dengan sebutanSprint, dimana setiap Sprint akan kembali dibagi menjadi beberapa event yang
+lebih kecil. Event-event ini sengaja dirancang untuk memastikan adanya
+transparansi pada setiap proses pengerjaan serta hasil yang diperoleh.
+Konsekuensi dari Scrum Event yang tidak berjalan dengan baik akan
+menghilangkan kesempatan tim untuk belajar dan beradaptasi dari kesalahan
+yang dibuat. Selain untuk memastikan adanya transparansi event ini akan
+membentuk suatu habit positif diantara anggota tim dan mengurangi meeting
+yang tidak efektif. 
+
+-Sprint
+
+Sprint merupakan detak jantung dari jalannya kerangka Scrum, disini
+dimana proses kreatif dan usaha diberikan untuk mengembangkan
+produk.
+
+-Sprint Planning
+
+Seperti namanya tahapan ini merupakan bagian paling awal dari sprint
+dimana akan menjadi event yang meng-inisiasi jalannya sprint. Sprint
+planning haruslah dilakukan secara kolaboratif dengan melibatkan
+seluruh tim scrum yang terlihat.
+
+-Daily Scrum
+
+Daily scrum merupakan kegiatan yang dilakukan secara periodik selama
+15 menit setiap harinya oleh development team.
+
+-Sprint Review
+
+Sprint review dilakukan di akhir sprint untuk mengetahui bagaimana hasil
+dari sprint yang telah dilakukan dan mengetahui apakah perlu untuk
+melakukan penyesuaian pada product backlog yang telah didefinisikan.
+
+-Sprint Retrospective
+
+Kegiatan ini kurang lebih sama dengan sprint review, yang membedakan
+ada pada aspek yang disoroti. 

@@ -1,0 +1,3 @@
+-product owner adalah salah satu pekerjaan dalam dunia pengembangan produk. Ia mengatur apa yang harus diprioritaskan oleh developer untuk dibangun terlebih dahulu, apakah penambahan fitur baru, menyelesaikan bug, dan lain-lain.
+
+-developer adalah mereka yang bertanggung jawab untuk mengembangkan produk baru maupun yang sudah ada sehingga perusahaan dapat memenuhi kebutuhan pelanggan dengan lebih efektif.

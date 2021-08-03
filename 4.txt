@@ -1,0 +1,12 @@
+Kenapa kita harus menggunakan version control system untuk berkolaborasi dalam mengembangkan aplikasi?
+
+-Git memungkinkan developer untuk melihat semua timeline perubahan, dan
+progress dari sebuah project dalam satu tempat. Ketika developer melihat
+history sebuah project, maka sebuah developer dapat memahami konteks yang
+mereka butuhkan untuk memahami project tersebut dan mulai berkontribusi
+
+
+-Developers dapat bekerja dari zona waktu yang berbeda, dan dimana saja tanpa
+perlu terkoneksi dengan internet secara terus menerus. dengan adanya fitur
+branches, developer dapat membuat perubahan yang aman untuk masing-masing
+fitur yang diakerjakan
